@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch User_quarantine",
+            "request": "launch",
+            "mainClass": "Vaccine.User_quarantine",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Admin_Login",
+            "request": "launch",
+            "mainClass": "Vaccine.Admin_Login",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Choice",
+            "request": "launch",
+            "mainClass": "Vaccine.Choice",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Front_Page",
+            "request": "launch",
+            "mainClass": "Vaccine.Front_Page",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loading",
+            "request": "launch",
+            "mainClass": "Vaccine.Loading",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserOption",
+            "request": "launch",
+            "mainClass": "Vaccine.UserOption",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch User_Login",
+            "request": "launch",
+            "mainClass": "Vaccine.User_Login",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch User_Signup",
+            "request": "launch",
+            "mainClass": "Vaccine.User_Signup",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Userloading",
+            "request": "launch",
+            "mainClass": "Vaccine.Userloading",
+            "projectName": "Covid19Vaccine_dd14d6c2"
+        }
+    ]
+}
